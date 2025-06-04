@@ -21,7 +21,3 @@ layout: default
  {%- endfor -%}
 </ul>
 {%- endif -%}
-=======
-layout: home
----
->>>>>>> 810096c (“First-Jekyll-Theme”)
